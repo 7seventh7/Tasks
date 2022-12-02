@@ -7,7 +7,7 @@ class Viber:
         self.list_of_massages[msg] = False
 
     def add_message(self, msg):
-        """добавление нового сообщения в список сообщений;
+        """добавление сообщения в список сообщений;
         """
         self.list_of_massages[msg] = False
 
